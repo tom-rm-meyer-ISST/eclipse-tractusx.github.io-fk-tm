@@ -11,6 +11,13 @@ sidebar_position: 1
 
 All notable changes to this Kit will be documented in this file.
 
+## [0.3.2] - 2025-03-31
+
+### Changed
+
+- Adoption View
+  - Fixed typos and smaller changes for easier reading and understanding
+
 ## [0.3.1] - 2024-08-08
 
 ### Changed
