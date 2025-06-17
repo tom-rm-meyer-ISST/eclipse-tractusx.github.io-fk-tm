@@ -29,7 +29,7 @@ This work is licensed under the [CC-BY-4.0](https://creativecommons.org/licenses
 - SPDX-FileCopyrightText: 2024 ZF Friedrichshafen AG
 - SPDX-FileCopyrightText: 2024 Bayerische Motoren Werke Aktiengesellschaft (BMW AG)
 - SPDX-FileCopyrightText: 2024 SAP SE
-- SPDX-FileCopyrightText: 2024 Mercedes Benz Group AG
+- SPDX-FileCopyrightText: 2024 Mercedes-Benz Group AG
 - SPDX-FileCopyrightText: 2024 BASF SE
 - SPDX-FileCopyrightText: 2024 SupplyOn AG
 - SPDX-FileCopyrightText: 2024 Henkel AG & Co.KGaA
